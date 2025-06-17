@@ -1,0 +1,15 @@
+---------------------------------------------------------------
+This is a log file of Marvellous Automation Script 
+This is a directory cleaner script used display duplicate files 
+---------------------------------------------------------------
+
+
+
+
+C:\Users\vipul\OneDrive\Documents\Desktop\Assignments\Assignment_20\Marvellous\me1.py
+The Removed File Is:C:\Users\vipul\OneDrive\Documents\Desktop\Assignments\Assignment_20\Marvellous\me1.pyTotal Deleted file : 1
+
+
+
+---------------------------------------------------------------
+---------------------------------------------------------------
